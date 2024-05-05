@@ -42,6 +42,3 @@
   Finalizado
 ## Central de Suporte
   Contato para suporte e esclarecimento de dúvidas: pedrohenriquewen@gmail.com
-
-## Autor
-  - Pedro Henrique dos Santos Ewen - [Linkedin](https://www.linkedin.com/in/pedroewen-sec/) | [Github](https://github.com/PedroEwen)
